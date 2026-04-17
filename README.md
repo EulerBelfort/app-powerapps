@@ -33,19 +33,19 @@ Aplicação criada para gerenciar requisições internas de forma automatizada, 
 </p>
 
 <p align="center">
-  <img src="images/tela1.png" width="800"/>
+  <img src="images/Tela1.png" width="800"/>
 </p>
 
 <p align="center">
-  <img src="images/tela2.png" width="800"/>
+  <img src="images/Tela2.png" width="800"/>
 </p>
 
 <p align="center">
-  <img src="images/tela3.png" width="800"/>
+  <img src="images/Tela3.png" width="800"/>
 </p>
 
 <p align="center">
-  <img src="images/tela4.png" width="800"/>
+  <img src="images/Tela4.png" width="800"/>
 </p>
 
 ---
